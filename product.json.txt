@@ -1,0 +1,38 @@
+{
+  "productCode": "AM340",
+  "name": "AM340 床架",
+  "variants": [
+    {
+      "size": "Single",
+      "dimensions": { "width_cm": 102, "depth_cm": 205, "height_cm": 122 },
+      "price_myr": 599
+    },
+    {
+      "size": "Super Single",
+      "dimensions": { "width_cm": 117, "depth_cm": 205, "height_cm": 122 },
+      "price_myr": 699
+    },
+    {
+      "size": "Queen",
+      "dimensions": { "width_cm": 163, "depth_cm": 205, "height_cm": 122 },
+      "price_myr": 899
+    },
+    {
+      "size": "King",
+      "dimensions": { "width_cm": 259, "depth_cm": 205, "height_cm": 122 },
+      "price_myr": 1099
+    }
+  ],
+  "addOns": [
+    {
+      "code": "LED",
+      "name": "LED 灯带",
+      "price_myr": 300
+    },
+    {
+      "code": "SPEAKER",
+      "name": "床头音箱",
+      "price_myr": 180
+    }
+  ]
+}
